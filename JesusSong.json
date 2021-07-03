@@ -1,441 +1,84 @@
 {
+{
     "hindiSongs" : [
 	{
 	"name": "Aa Pavitra aatma tu aja",
-	"url":"https://drive.google.com/uc?export=download&id=1t5h8twfH56mRJfDzLRDpcbB7H4BrSAEj"
+	"url":"https://drive.google.com/uc?export=download&id=1t5h8twfH56mRJfDzLRDpcbB7H4BrSAEj",
+	"lyrics":"आ पवितरा आत्मा तू आजा
+आ मैं प्रार्थना करूँ
+आ अपनी शक्ति में आजा
+आ अपनी नम्रता में आ
+ज्ञान अपने बाकचों को दे दे
+अंधों की रोशनी तू बन
+निर्बल को शक्ति तू दे दे
+ले मेरी आत्मा टन मॅन
+सूखे में चश्मा बहा दे
+मुरझाए मान में तू आ
+आ अपने सामरथ में आजा
+चूले संपूर्ण बना
+Aa pavitra aatma tu aaja
+Aa main prarthna karoon
+Aa apni shakti mein aaja
+Aa apni namrata mein aa
+
+Gyan apne bacchon ko de de
+Andhon ki roshni tu ban
+Nirbal ko shakti tu de de
+Le meri aatma tan mann
+
+Sukhe mein chashma baha de
+Murjhaye man mein tu aa
+Aa apne saamarth mein aaja
+Choole sampoorn bana
+"
+
 	},
 	{
 	"name": "Aaj ka yeh din Subh hai",
-	"url":"https://drive.google.com/uc?export=download&id=1EX4i4uswL2-K-HlF-z2r288Cp0gCxgwd"
-	},
-{
-	"name": "Aao hum chale yeshu k pass",
-	"url":"https://drive.google.com/uc?export=download&id=14s2YbRzXeGGSOr7KB7Q246iK9dnMXj_R"
-	},
-{
-	"name": "Aaradhana Aaradhana",
-	"url":"https://drive.google.com/uc?export=download&id=1hx7CDspfopccCRcGto9CAS3hf2FMdlO_"
-	},
-{
-	"name": "Aaradhna ho Aaradhna khudhawani",
-	"url":"https://drive.google.com/uc?export=download&id=1pivhVPEUlEqVTVKkPDH_o8wkmc1dWg1l"
-	},
-{
-	"name": "Aashish tujhse chahte hai",
-	"url":"https://drive.google.com/uc?export=download&id=1nuSaRTTPneiEQCyB1ye4CTn5x4QTd8UE"
-	},
-{
-	"name": "Aasmai khushi se bhar",
-	"url":"https://drive.google.com/uc?export=download&id=1SCX3nxEbmQPyTTgjunl0ANsBnO9wUV2X"
-	},
-{
-	"name": "Aaya mashih duniya m tu",
-	"url":"https://drive.google.com/uc?export=download&id=1919ehWFrvge55CgAa5j66y7efTc1YW-5"
-	},
-{
-	"name": "Ae yeshu kaha h tu",
-	"url":"https://drive.google.com/uc?export=download&id=1AbAiTaUXHiw8vhFhKmByu-7FNTXHE2Xv"
-	},
-{
-	"name": "Aey mere dil kyu hai udas",
-	"url":"https://drive.google.com/uc?export=download&id=1Cq7mywGj6hXVLpaZsTFc9MQuL_OS2hFt"
-	},
-{
-	"name": "Aisi roti de mujhko",
-	"url":"https://drive.google.com/uc?export=download&id=1INgU4KW-Rm6FhE7I9Cn1NVgrdesJ2Xvy"
-	},
-{
-	"name": "Apna ko toh is duniya m",
-	"url":"https://drive.google.com/uc?export=download&id=12xFa0Cnz_SJ2xoK0Rj-fCJjVU2phtnNO"
-	},
-{
-	"name": "Apni shanti tumhe deta hu",
-	"url":"https://drive.google.com/uc?export=download&id=1wF7B1Gnn1toHC91LshxJyMuVgQFL4r93"
-	},
-{
-	"name": "Apno ko toh is duniya mai sb pyar",
-	"url":"https://drive.google.com/uc?export=download&id=1zwp_-df-0haTxDKs2vYN1ZSwhxeSMCKO"
-	},
-{
-	"name": "Bhoole aur bhatke the",
-	"url":"https://drive.google.com/uc?export=download&id=1jNBWupRCIZb3u_jdJhOg0tAIWb-N6EiF"
-	},
-{
-	"name": "Bolo jai",
-	"url":"https://drive.google.com/uc?export=download&id=1QIs4HT4-XiLZp2Fsf13WZRQ9eL5XMZZF"
-	},
-{
-	"name": "Choliya Choliya",
-	"url":"https://drive.google.com/uc?export=download&id=1NpW-OesZOsOgmqTDAFOZwuWHfVnzfZp6"
-	},
-{
-	"name": "Dhan hai voh jo mann",
-	"url":"https://drive.google.com/uc?export=download&id=1bRYcmv8y1SCyQzuXtnM-3x5sLsXcWwuH"
-	},
-{
-	"name": "Dhanya dhanya tujhko",
-	"url":"https://drive.google.com/uc?export=download&id=1x2mn0BXQpYkuFWL0xjQKF7bjUYqga4Vf"
-	},
+	"url":"https://drive.google.com/uc?export=download&id=1EX4i4uswL2-K-HlF-z2r288Cp0gCxgwd",
+	"lyrics":"आज का ये दिन शुभ दिन है
+आज की ये रात शुभ रात
+आओ हम करे प्यार से शुरू
+प्यार के मसीहा की बात
 
-{
-	"name": "Duniya k kone kone m",
-	"url":"https://drive.google.com/uc?export=download&id=1k9NjbjaqcvVpRqIVMN1LkERR0sC5krH8"
-	},
-{
-	"name": "Ek aag har dil mai",
-	"url":"https://drive.google.com/uc?export=download&id=1FsDozniEkb5ghsLbTwTNR75IKB4PCW5H"
-	},
-{
-	"name": "Gaane ka din bjane ka",
-	"url":"https://drive.google.com/uc?export=download&id=1aMRhKBmXRDGVAnkLnu8NJcXQHm9lLSiq"
-	},
-{
-	"name": "Gaau shukr gujari se mai",
-	"url":"https://drive.google.com/uc?export=download&id=1PG-P_Cj38qcX-7zfDdrE3gwRXCR9WC66"
-	},
-{
-	"name": "Gao Hallelujah",
-	"url":"https://drive.google.com/uc?export=download&id=1ae0w9ch4HAzhZK4wBz8vTgNQTkmUSVA5"
-	},
-{
-	"name": "Hum toh jalte deep hai",
-	"url":"https://drive.google.com/uc?export=download&id=1XGh3MZmpjxJ77pqMksEVORRSkHGfK7H_"
-	},
-{
-	"name": "Hum yeshu k sath swarg jayenge",
-	"url":"https://drive.google.com/uc?export=download&id=1GYIUrL099MClRwcTzuq4y0GnR9HjD8zA"
-	},
-{
-	"name": "Hum yeshu ke sang ek din",
-	"url":"https://drive.google.com/uc?export=download&id=1La_q7Vz0nk0TP4nlHinoCm3Nzv9HHuiC"
-	},
-{
-	"name": "Humko shanti deta hai",
-	"url":"https://drive.google.com/uc?export=download&id=1nc0J5pPl2xEZjoLh-kfE7XilnzdDSe_a"
-	},
-{
-	"name": "Ho teri stuti aur aradhana",
-	"url":"https://drive.google.com/uc?export=download&id=1xBt3PB5h71hhtLSBuxQwfVr7QAUMzLNI"
-	},
-{
-	"name": "Ibadat kro uski",
-	"url":"https://drive.google.com/uc?export=download&id=1rRzVlsdKkFuEhoB9_uZTeBOvknNBqGIQ"
-	},
-{
-	"name": "Jab kisi ne mujhse kaha chalo",
-	"url":"https://drive.google.com/uc?export=download&id=1YGcksqid8UtYni4nfXYCfhDXN_GqRuNO"
-	},
+तेरे लिए मेरे लिए
+आया हा वो सबके लिए – 2
+ऐसा प्यार देखा ना कभी
+ऐसा प्यार पाया ना कभी
+प्यार में उसके गैरों ने भी अपनापन पाया
+मेरा हर दिन नया दिन है
+मेरी हर रात नयी रात है ,
+आओ…….
 
-{
-	"name": "Jab se pyara yeshu aaya",
-	"url":"https://drive.google.com/uc?export=download&id=1EaxwM6F-2eJmJmxjO4hmL6R8I0jvu0Ug"
-	},
-{
-	"name": "Jag jara dhulhan",
-	"url":"https://drive.google.com/uc?export=download&id=14oCxsj7DZDiekb-m7kt5NkfTFuW0s1CH"
-	},
-{
-	"name": "Jeevan ki raah par",
-	"url":"https://drive.google.com/uc?export=download&id=1-vlteBk7wTi4bcjWx7alfEUrw0GI4rGH"
-	},
+उसकी हर बात है मेरा जोनूं
+वो दिन रात है मेरा सुकून
+प्यार मसीह का मेरी हिम्मत प्यार मेरा साया
+हर कदम -2 वो है मेरे संग
+हर जगह मसीह है मेरे साथ
+आओ हम ……….. 
+Aaj ka ye din shubh din hai
+Aaj ki ye raat shubh raat
+Aao hum kare pyar se shuru
+Pyar ke masiha ki baat
 
-{
-	"name": "Kab tak",
-	"url":"https://drive.google.com/uc?export=download&id=1OTMbfi5ZmgERzNmzX0vFTIeVrihuHpTR"
-	},
-{
-	"name": "Karta hu mai teri chinta tu chinta kyo karta hai",
-	"url":"https://drive.google.com/uc?export=download&id=1nZ4xZLbSW3BiWR_uBJW6OYTS4YSjn8Wb"
-	},  
-{
-	"name": "Khuda hai mahobat",
-	"url":"https://drive.google.com/uc?export=download&id=1jGsusZ7SQ6vfB7AT4w_R6YoVMd43cacZ"
-	},
-{
-	"name": "Khuda se maango milega",
-	"url":"https://drive.google.com/uc?export=download&id=1aPjTAymzCg7jrXpBMjzHzzafuiz22TfC"
-	},
+Tere liye mere liye
+Aaya ha woh sabke liye – 2
+Aisa pyar dekha na kabhi
+Aisa pyar paya na kabhi
+Pyar mein uske gairon ne bhi apnapan paya
+Mera har din naya din hai
+Meri har raat nayee raat hai ,
+Aao…….
 
-{
-	"name": "Khul jayenge kitabe",
-	"url":"https://drive.google.com/uc?export=download&id=1FYud2BxI8fM4BYqLW-pXnKYqVhl0Xz6a"
-	},
-{
-	"name": "Khush khabri",
-	"url":"https://drive.google.com/uc?export=download&id=1KkS2T4F4-YZFN_jBbKGjBu-9-nyUvrKq"
-	},
-{
-	"name": "Khushi khushi mnao",
-	"url":"https://drive.google.com/uc?export=download&id=14X0m2Iv1Sx8cwpG96ppa9t10ADAYfYpN"
-	},
+Uski har baat hai mera jonoon
+Woh din raat hai mera sukoon
+Pyar masih ka meri himmat pyar mera saaya
+Har kadam -2 woh hai mere sang
+Har jagah masih hai mere saath
+Aao hum ……….. 
 
-{
-	"name": "Kmzor dil ki",
-	"url":"https://drive.google.com/uc?export=download&id=1hpX92xFXcCIeqTMMhv7_jLe_MnLn1bB8"
-	},
+"
 
-{
-	"name": "Krte hai hum teri stuti",
-	"url":"https://drive.google.com/uc?export=download&id=1lTNXkTj3Kxt9WLNjloU9LUby9aFaxOu0"
-	},
-
-{
-	"name": "Laakho mai voh mera ek hi priye hai",
-	"url":"https://drive.google.com/uc?export=download&id=1j-8GIEg3O2hhPoAqRnMxUvmRKiSArGDg"
-	},
-
-{
-	"name": "Le chal mujhe",
-	"url":"https://drive.google.com/uc?export=download&id=10Z1i2NEod2xAgkILXvyQbWbiBBjUcKSR"
-	},
-
-{
-	"name": "Mahima ho tere",
-	"url":"https://drive.google.com/uc?export=download&id=1_qFgcIJjiMYVUUnI6_WiXAjpuQvQvg_r"
-	},
-
-{
-	"name": "Mahima mahima ho teri",
-	"url":"https://drive.google.com/uc?export=download&id=18S5xmj3Yu_p331-ENkegO6vxG6QcGE3F"
-	},
-
-{
-	"name": "Mai aur mera gharana",
-	"url":"https://drive.google.com/uc?export=download&id=1FUoJ2cV_HFjuTaPBZ1dEZc9phReorWxB"
-	},
-
-{
-	"name": "Mera Yeshu Mashih hai kitna mahan",
-	"url":"https://drive.google.com/uc?export=download&id=1vsWKNXXVeMtBI6aaRvNLvrF16nPivBhU"
-	},
-{
-	"name": "Mere Dil Tu Na Hona Nirash Mera Yeshu",
-	"url":"https://drive.google.com/uc?export=download&id=1-eIr2xwRx6c07Or9SGhwlx3pb1Lf6VNv"
-	},
-{
-	"name": "Mere Prabhu mere mashih",
-	"url":"https://drive.google.com/uc?export=download&id=1SIRQ16B3Hndi7LMDHA0y2U60Ms4tVJ6T"
-	},
-{
-	"name": "Mere Yeshu",
-	"url":"https://drive.google.com/uc?export=download&id=1-ALqTFKbJEHEDzPb3QtsKm1Mv2DrYRmU"
-	},
-{
-	"name": "Mere aawaj mai tum ho",
-	"url":"https://drive.google.com/uc?export=download&id=11hDI7IycdnZmgd3sFJRTRQkVkDQd-bF0"
-	},
-
-{
-	"name": "Meri rooh khuda ki",
-	"url":"https://drive.google.com/uc?export=download&id=1mGU8MU_WJj6aa4xeXqIHlYdB_2UdhW4t"
-	},
-{
-	"name": "Mubarak hai woh jo paap",
-	"url":"https://drive.google.com/uc?export=download&id=1S5fzP1A1DgnnaoF_9UcPcXD5ajtdLfZC"
-	},
-{
-	"name": "Mujhe teri zarurat hain",
-	"url":"https://drive.google.com/uc?export=download&id=1A4uPmtiAmDvYipraw348GRvFbVUMd1e7"
-	},
-{
-	"name": "Mukhti dilaye yeshu naam",
-	"url":"https://drive.google.com/uc?export=download&id=1htPMDo8NeQ-db1Xw9vL2Yr92PbsQDDKw"
-	},
-{
-	"name": "Neele aasman ke paar",
-	"url":"https://drive.google.com/uc?export=download&id=1wDCgL48xzNXR8RNVs-Acr9M-ri-P4Die"
-	},
-{
-	"name": "Parbaton ko dekhunga main",
-	"url":"https://drive.google.com/uc?export=download&id=1TThmYG1btLM8e1oeGGoQ0XLOtPkjVAeX"
-	},
-{
-	"name": "Pavitra Aatma",
-	"url":"https://drive.google.com/uc?export=download&id=1XWoerL8wgh5bmCV_tQ1U40MSDXkpc_uu"
-	},
-{
-	"name": "Pavitra aati pavitra",
-	"url":"https://drive.google.com/uc?export=download&id=1K4QYAAOq8vO2o2axwGT-xmw_vXaZaRmG"
-	},
-{
-	"name": "Pavitra aatma aa",
-	"url":"https://drive.google.com/uc?export=download&id=1XWoerL8wgh5bmCV_tQ1U40MSDXkpc_uu"
-	},
-{
-	"name": "Phir se voh aag bharsa de",
-	"url":"https://drive.google.com/uc?export=download&id=1da9lD4ypBJyjV_pCRLDROwPcf8DLPjtN"
-	},
-{
-	"name": "Piyasa hiran",
-	"url":"https://drive.google.com/uc?export=download&id=1pFfi29ErL9L3RI4ZAq69mWrc8kP-xHLZ"
-	},
-{
-	"name": "Prabhu ka aanand hai mere takt",
-	"url":"https://drive.google.com/uc?export=download&id=1uLAInnhXXP0cY7Ga6J2brqPR4yuZNYQL"
-	},
-{
-	"name": "Prabhu ka dhanyavad krunga",
-	"url":"https://drive.google.com/uc?export=download&id=1goHC0iNBmrc8Mtt4f4_iKS6WjSqmvJfH"
-	},
-{
-	"name": "Prabhu ki avaj sun",
-	"url":"https://drive.google.com/uc?export=download&id=1VfkQVl2vFxzDB_89RZmsbdq9HhfOGZrB"
-	},
-{
-	"name": "Prabhu mahan",
-	"url":"https://drive.google.com/uc?export=download&id=1UAL7ArhqEipHLP1NYCUSAxYyzGuYfoky"
-	},
-{
-	"name": "Prabhu tera pyaar",
-	"url":"https://drive.google.com/uc?export=download&id=1vJ9YWBXl-ZgChFY69Ykg7VebHBwDb5CR"
-	},
-{
-	"name": "Raaho m kaate agr ho",
-	"url":"https://drive.google.com/uc?export=download&id=1h54kS8M7Q-0rX5daG-8b0DSKyCNqeMyr"
-	},
-{
-	"name": "Sahara mujhko chaiye",
-	"url":"https://drive.google.com/uc?export=download&id=1ZvKIiqKUm4drCG09RuAjhMdrFdxnW2h7"
-	},
-{
-	"name": "Sari Shristi k malik",
-	"url":"https://drive.google.com/uc?export=download&id=1FwDOo-hJRAGJTyQssiuuEFbvkD-g2Qaa"
-	},
-{
-	"name": "Senaon ka Yahaowa",
-	"url":"https://drive.google.com/uc?export=download&id=1aPjTAymzCg7jrXpBMjzHzzafuiz22TfC"
-	},
-{
-	"name": "Shukriya tera aaghaaz",
-	"url":"https://drive.google.com/uc?export=download&id=1-6sClbPH8OidHftOiJrzQ4drZHlPfl6d"
-	},
-
-{
-	"name": "Siyon desh",
-	"url":"https://drive.google.com/uc?export=download&id=1u7GwxHing33Yrp_pReq3gq5KlzwyL-Nf"
-	},
-{
-	"name": "Song of Comfort",
-	"url":"https://drive.google.com/uc?export=download&id=1MWsnKb9vSaZepZTY5jZAgXHHMgXZzgRT"
-	},
-{
-	"name": "Tera lahu bdah kimti hai prabhu",
-	"url":"https://drive.google.com/uc?export=download&id=1q5cpT_BzWaJKcxlqUWTmam8HPEJ_bAp8"
-	},
-{
-	"name": "Tera pyaar hai mahan",
-	"url":"https://drive.google.com/uc?export=download&id=1YpddOmiHW4ikyV7UeVG2d_IBJ7bp1wWe"
-	},
-{
-	"name": "Tere Siva Kohi Nahi",
-	"url":"https://drive.google.com/uc?export=download&id=1YMCJjpUNHnwP0LRfgnnILwKV02aHXtDE"
-	},
-
-{
-	"name": "Tere ghar me kaun",
-	"url":"https://drive.google.com/uc?export=download&id=1zPU3-skyIvanNivbH17jrmVqWs9V34rt"
-	},
-{
-	"name": "Tere pass aata hu",
-	"url":"https://drive.google.com/uc?export=download&id=199nKZsUZr1zFGwNheWL_MvdPQte2ugx5"
-	},
-{
-	"name": "Teri aradhana kron",
-	"url":"https://drive.google.com/uc?export=download&id=1lzSQqvvqc4tA7KGs83Z7XpopMA4nQTcP"
-	},
-
-{
-	"name": "Tu Jo Chu Jayee",
-	"url":"https://drive.google.com/uc?export=download&id=10b-Mso_RG4aI3XOzOb7yrceKYyvKxe2z"
-	},
-{
-	"name": "Tu bade mai gatu",
-	"url":"https://drive.google.com/uc?export=download&id=1eTk6boAW6Ih7tyaCeqdoLzt0GtuG-Gwe"
-	},
-{
-	"name": "Tu hi Jindagi",
-	"url":"https://drive.google.com/uc?export=download&id=1CmiMYdgutJu6WWG0cjvsKXUu1G54mURj"
-	},
-{
-	"name": "Tu hi margh hai satya hai jeevan hai",
-	"url":"https://drive.google.com/uc?export=download&id=17Y1Na-xdsEBXt-SSX6Zc94z6_8EWQBAy"
-	},
-{
-	"name": "Tu hi rab hai",
-	"url":"https://drive.google.com/uc?export=download&id=1Jop6dHWOupTqffCSY4X2M7CQ3KcaezPa"
-	},
-{
-	"name": "Tu hi tu yeshu",
-	"url":"https://drive.google.com/uc?export=download&id=1AGtH5s_lf1RYYEZI_jMyI6avHJ8t2Htm"
-	},
-{
-	"name": "Tu kaha hoga",
-	"url":"https://drive.google.com/uc?export=download&id=12uuEhRK2g4ggxDVOQyM1PNE9MP4vqeJj"
-	},
-{
-	"name": "Tu mera sharan sthan",
-	"url":"https://drive.google.com/uc?export=download&id=1ablCAWhcrYb1uiJ__jFIxKjyQw0z1SEL"
-	},
-{
-	"name": "Tu pukare mai aau",
-	"url":"https://drive.google.com/uc?export=download&id=19D_BFl9mg1kBEv-hhG6XIPFGvrQIcbU1"
-	},
-{
-	"name": "Tu pyar ka sagar",
-	"url":"https://drive.google.com/uc?export=download&id=1ATqvn8H1Bj9c_9WzuYPlcr4lrr6KiWtF"
-	},
-{
-	"name": "Tu sune toh kon sunega",
-	"url":"https://drive.google.com/uc?export=download&id=1h2C-iH5NB8VYKq1r-_S0xR-i6TQQk29i"
-	},
-{
-	"name": "Tujhe dhanya kehte",
-	"url":"https://drive.google.com/uc?export=download&id=1Gu7HxqLNZIcTXrgMJn-OojAMFpuPTz23"
-	},
-{
-	"name": "Vandhna krte hai hum",
-	"url":"https://drive.google.com/uc?export=download&id=18Ji1sklITprissmYZFfVDCLVW_NqFonM"
-	},
-{
-	"name": "Yeshu bula raha tera naam lekr",
-	"url":"https://drive.google.com/uc?export=download&id=1FNEKtPu6dkn7hPWNaqWj3H2ycucB99Nb"
-	},
-{
-	"name": "Yeshu chu mere jeevan ko",
-	"url":"https://drive.google.com/uc?export=download&id=1bcK3TGm0TKuMZmcOZAudhwqrI_vfA7im"
-	},
-{
-	"name": "Yeshu humko shanti deta hai",
-	"url":"https://drive.google.com/uc?export=download&id=1nc0J5pPl2xEZjoLh-kfE7XilnzdDSe_a"
-	},
-{
-	"name": "Yeshu mashih tere jaise koi nhi",
-	"url":"https://drive.google.com/uc?export=download&id=1OEQO_6JFyUNdJp6j4iBG3CIM8PjoNqt1"
-	},
-{
-	"name": "Yeshu naam mai changai hai",
-	"url":"https://drive.google.com/uc?export=download&id=1_WZUVPryORow1eyliIG13fHucPR3kkz9"
-	},
-{
-	"name": "Yeshu tu hai zindagi",
-	"url":"https://drive.google.com/uc?export=download&id=1x83-uxFxunEIS1r-a6o23XmmLKTIAON-"
-	},
-{
-	"name": "Yogya keval tu",
-	"url":"https://drive.google.com/uc?export=download&id=18M2nX_NNqPTX1fgYtaNLThJJT1q_CD_t"
-	},
-
-{
-	"name": "Yeshu mary sath hai",
-	"url":"https://drive.google.com/uc?export=download&id=13vNKxgDLX6KtDxZDOsNKNJzoBbFW0-M7"
-	},
-{
-	"name": "Yeshu masih deta khushi",
-	"url":"https://drive.google.com/uc?export=download&id=15_1oqZImtjJPcGOOTqJ_Q3pLdD8cOW39"
-	},
-{
-	"name": "Wo khuda mera charwaha hai",
-	"url":"https://drive.google.com/uc?export=download&id=1QPCh52fNBh-O5JVj80GMzZeBmZ7S6JkY"
-	}  
+	}
 ]      
 }
