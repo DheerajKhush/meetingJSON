@@ -1,23 +1,25 @@
 {
-  "meeting1" : {
+"meetings" :[
+	 {
     "endTime" : "7am",
     "imageUrl" : "https://scontent.fdel3-2.fna.fbcdn.net/v/t1.6435-9/s960x960/138200141_250947033220492_3783398777776801031_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=730e14&_nc_ohc=wE0busPt8ggAX9j16Dx&_nc_ht=scontent.fdel3-2.fna&oh=28476ce797256844d4dfdab135e9bbc9&oe=61B16FA9",
     "link" : "http://meet.google.com/apb-ceqv-emm",
     "startTime" : "6am",
     "title" : "Tongue Talking Prayer -Daily"
   },
-  "meeting2" : {
+{
     "endTime" : "11pm",
     "imageUrl" : "https://drive.google.com/uc?export=download&id=18u2IUuW-nvCt_hE3Ic6K9vSKLmIlqwsq",
     "link" : "https://meet.google.com/nzn-nhvj-hvr",
     "startTime" : "9:30pm",
     "title" : "Praise and Worship -Wednesday"
   },
-  "meeting3" : {
+ {
     "endTime" : "12pm",
     "imageUrl" : "https://drive.google.com/uc?export=download&id=1_A__rxzNojz6rKBKDztMKI5eNu6-JOH9",
     "link" : "https://meet.google.com/nzn-nhvj-hvr",
     "startTime" : "10am",
     "title" : "Church Service -Sunday"
   }
+]
 }
