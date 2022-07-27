@@ -1,6 +1,13 @@
 {
 "meetings" :[
 {
+    "endTime" : "Premiere",
+    "imageUrl" : "https://drive.google.com/uc?export=download&id=1ZTtpOy1SiW4RHUo8rebsiGshqRtmKvJI",
+    "link" : "https://www.youtube.com/channel/UC8_oGxCz84dcKUCFlKeJb4w?sub_confirmation=1",
+    "startTime" : "Sunday Broadcast",
+    "title" : "REMNANT Youtube"
+  },
+{
     "endTime" : "12:00 PM",
     "imageUrl" : "https://drive.google.com/uc?export=download&id=1m1U8bnoizOWWWq9f2EaMeou37zJgqFKT",
     "link" : "https://meet.google.com/obk-wubk-ovp",
@@ -17,9 +24,9 @@
 {
     "endTime" : "11:00 PM",
     "imageUrl" : "https://drive.google.com/uc?export=download&id=1zkbHB3Zs_Qr9I5Go3chJegiYGWA2VIDk",
-    "link" : "https://meet.google.com/nzn-nhvj-hvr",
+    "link" : "https://meet.google.com/obk-wubk-ovp",
     "startTime" : "9:30 PM",
-    "title" : "Wednesday Meeting Topic- Remnants"
-  }
+    "title" : "Wednesday Meeting Topic- First Century Church"
+   }
 ]
 }
