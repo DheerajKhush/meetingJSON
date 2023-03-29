@@ -7,13 +7,7 @@
     "startTime" : "Sunday Broadcast",
     "title" : "REMNANT Youtube"
   },
-{
-    "endTime" : "12:00 PM",
-    "imageUrl" : "https://drive.google.com/uc?export=download&id=1m1U8bnoizOWWWq9f2EaMeou37zJgqFKT",
-    "link" : "https://meet.google.com/obk-wubk-ovp",
-    "startTime" : "10:00 AM",
-    "title" : "Sunday Church Service"
-  },
+    
  {
     "endTime" : "7:00 AM",
     "imageUrl" : "https://drive.google.com/uc?export=download&id=12P7NVC9Hhp9jp1G1WhQ0chY_PTyn1ehJ",
@@ -22,11 +16,11 @@
     "title" : "Morning Tongues Prayer- Monday to Saturday"
   },	
 {
-    "endTime" : "11:00 PM",
-    "imageUrl" : "https://drive.google.com/uc?export=download&id=11qQbSwpONJAj3Jr5FbWr-R4Ar9XrW6eY",
-    "link" : "https://meet.google.com/obk-wubk-ovp",
-    "startTime" : "9:30 PM",
-    "title" : "Wednesday Meeting Topic- First Century Church"
-   }
+    "endTime" : "12:00 PM",
+    "imageUrl" : "https://drive.google.com/uc?export=download&id=1m1U8bnoizOWWWq9f2EaMeou37zJgqFKT",
+    "link" : "https://meet.google.com/fdj-pjsm-quc",
+    "startTime" : "10:00 AM",
+    "title" : "Sunday Church Service"
+  },
 ]
 }
